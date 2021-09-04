@@ -1,7 +1,7 @@
 {
-  "name": "the_guard_bot",
+  "name": "TheGeeksBot",
   "version": "1.4.0",
-  "description": "Telegram guard bot to manage a network of groups.",
+  "description": "Telegram Geeks Bot to manage a network of groups.",
   "main": "index.js",
   "scripts": {
     "postversion": "git push --atomic --follow-tags origin develop develop:master",
@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheDevs-Network/bot.git"
+    "url": "git+https://github.com/swatv3nub/TheGeeksBot.git"
   },
   "keywords": [
     "bot",
-    "the guard",
-    "thedevs",
+    "Geeks",
+    "thegeeks",
     "telegram"
   ],
   "author": "Thomas Rory Gummerson <thomas@gummerson.no> (https://trgwii.no)",
@@ -25,13 +25,14 @@
     "Wojciech Pawlik <woj.pawlik@gmail.com>",
     "Muthu Kumar <mkr@feathers.studio> (https://mkr.pw)",
     "Simon Schürrle (https://sitischu.com)",
-    "Martin Rys (https://rys.pw)"
+    "Martin Rys (https://rys.pw)",
+    "MaskedVirus (https://maskedvirus.me)"
   ],
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/TheDevs-Network/the-guard-bot/issues"
+    "url": "https://github.com/swatv3nub/TheGeeksBot/issues"
   },
-  "homepage": "https://github.com/TheDevs-Network/the-guard-bot/",
+  "homepage": "https://github.com/swatv3nub/TheGeeksBot/",
   "dependencies": {
     "dedent-js": "^1.0.1",
     "jspack": "0.0.4",
